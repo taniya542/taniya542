@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **taniya.srn@gmail.com**
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7fd4efd6621565a2e09921d15de74e315fc4a8755660721dcb9ce5f97d27abcb/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taniya542&label=Profile%20views&color=0e75b6&style=flat" alt="taniya542" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/63107268/235033377-31b23c1d-04b6-42bf-865a-6b6bda4f77ae.gif" alt="taniya542" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

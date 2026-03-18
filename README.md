@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taniya</h1>
-<h3 align="center">Sophomore at National Institute of Technology, Jalandhar</h3>
+<h3 align="center">Pre-final at National Institute of Technology, Jalandhar</h3>
 - 🌱 I’m currently learning **DSA in cpp**
 
 - 📫 How to reach me **taniya.srn@gmail.com**
